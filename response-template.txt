@@ -1,0 +1,8 @@
+Hi {{customer_name}},
+
+Thanks for reaching out about order {{order_id}}. {{eligibility_explanation}}
+
+{{next_steps}}
+
+Best,
+{{agent_name}}
